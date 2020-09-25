@@ -1,5 +1,5 @@
 <%-- 
-    Document   : helloWorldForm
+    Document   : AgeCalculator
     Created on : Sep 23, 2020, 10:43:12 AM
     Author     : 758688
 --%>
@@ -18,5 +18,6 @@
             <input type="submit" value="Age next birthday">
         </form>
         <p> ${message} </p>
+        <a href="arithmetic">Arithmetic Calculator</a>
     </body>
 </html>
